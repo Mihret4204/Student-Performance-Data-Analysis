@@ -1,0 +1,4 @@
+- G2 has a stronger positive correlation with G3 than G1.
+- Study time has a weak positive correlation with G3.
+- Students with absences had a higher average G3 in this dataset.
+- Correlation does not prove causation.
